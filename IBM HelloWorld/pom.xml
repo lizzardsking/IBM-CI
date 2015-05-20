@@ -1,0 +1,18 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.ibm.hello.world</groupId>
+  <artifactId>testWebApp</artifactId>
+  <version>1</version>
+  <packaging>war</packaging>
+  <build>
+    <plugins>
+	<plugin>
+		<artifactId>maven-war-plugin</artifactId>  
+        <version>2.2</version>  
+        <configuration>  
+            <failOnMissingWebXml>false</failOnMissingWebXml>  
+        </configuration> 
+	</plugin>
+	</plugins>
+ </build>
+</project>

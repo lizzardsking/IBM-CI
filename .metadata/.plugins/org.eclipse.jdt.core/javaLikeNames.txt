@@ -1,8 +1,1 @@
-bar
-dsld
-foo
-gpp
-gradle
-groovy
-grunit
 java
